@@ -1,0 +1,8 @@
+{
+  "name": "aurora-core",
+  "version": "1.0.0",
+  "description": "Regras de downloads, playlists e biblioteca do Aurora.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": true
+}

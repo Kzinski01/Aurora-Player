@@ -1,0 +1,36 @@
+# Dependências e arquivos gerados
+node_modules/
+dist/
+release/
+output/
+coverage/
+resources/bin/
+*.log
+*.tmp
+*.bak
+*.exe
+*.dll
+*.blockmap
+*.pdb
+
+# Configurações locais e arquivos de trabalho
+.env
+.env.*
+!.env.example
+.claude/
+.playwright-cli/
+.vscode/
+.DS_Store
+Thumbs.db
+AuroraDonwloaderintro.mp4
+aurora_logo.png
+
+# Dados pessoais e credenciais
+*.auroraProfile
+*.pem
+*.key
+config.json
+library.json
+Profile/
+Biblioteca/
+Playlists/

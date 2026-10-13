@@ -1,0 +1,418 @@
+{
+  "@discordjs/collection@2.1.1": {
+    "license": "Apache-2.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/discordjs/discord.js.git",
+      "directory": "packages/collection"
+    }
+  },
+  "@discordjs/rest@2.6.3": {
+    "license": "Apache-2.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/discordjs/discord.js.git",
+      "directory": "packages/rest"
+    }
+  },
+  "@discordjs/util@1.2.0": {
+    "license": "Apache-2.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/discordjs/discord.js.git",
+      "directory": "packages/util"
+    }
+  },
+  "@sapphire/async-queue@1.5.5": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sapphiredev/utilities.git",
+      "directory": "packages/async-queue"
+    }
+  },
+  "@sapphire/snowflake@3.5.5": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sapphiredev/utilities.git",
+      "directory": "packages/snowflake"
+    }
+  },
+  "@vladfrangu/async_event_emitter@2.4.7": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vladfrangu/async_event_emitter.git"
+    }
+  },
+  "@xhayper/discord-rpc@1.5.1": {
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/xhayper/discord-rpc.git"
+    }
+  },
+  "ajv@8.20.0": {
+    "license": "MIT",
+    "repository": "ajv-validator/ajv"
+  },
+  "ajv-formats@2.1.1": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ajv-validator/ajv-formats.git"
+    }
+  },
+  "atomically@1.7.0": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/fabiospampinato/atomically.git"
+    }
+  },
+  "conf@10.2.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/conf"
+  },
+  "env-paths@2.2.1": {
+    "license": "MIT",
+    "repository": "sindresorhus/env-paths"
+  },
+  "debounce-fn@4.0.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/debounce-fn"
+  },
+  "discord-api-types@0.38.56": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/discordjs/discord-api-types"
+    }
+  },
+  "dot-prop@6.0.1": {
+    "license": "MIT",
+    "repository": "sindresorhus/dot-prop"
+  },
+  "electron-store@8.2.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/electron-store"
+  },
+  "fast-deep-equal@3.1.3": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/epoberezkin/fast-deep-equal.git"
+    }
+  },
+  "fast-uri@3.1.8": {
+    "license": "BSD-3-Clause",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/fastify/fast-uri.git"
+    }
+  },
+  "find-up@3.0.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/find-up"
+  },
+  "is-obj@2.0.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/is-obj"
+  },
+  "json-schema-traverse@1.0.0": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/epoberezkin/json-schema-traverse.git"
+    }
+  },
+  "json-schema-typed@7.0.3": {
+    "license": "BSD-2-Clause",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/typeslick/json-schema-typed.git"
+    }
+  },
+  "locate-path@3.0.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/locate-path"
+  },
+  "magic-bytes.js@1.13.1": {
+    "license": "MIT",
+    "repository": {
+      "url": "https://github.com/LarsKoelpin/magic-bytes",
+      "type": "git"
+    }
+  },
+  "mimic-fn@3.1.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/mimic-fn"
+  },
+  "onetime@5.1.2": {
+    "license": "MIT",
+    "repository": "sindresorhus/onetime"
+  },
+  "mimic-fn@2.1.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/mimic-fn"
+  },
+  "p-locate@3.0.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/p-locate"
+  },
+  "p-limit@2.3.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/p-limit"
+  },
+  "p-try@2.2.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/p-try"
+  },
+  "path-exists@3.0.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/path-exists"
+  },
+  "pkg-up@3.1.0": {
+    "license": "MIT",
+    "repository": "sindresorhus/pkg-up"
+  },
+  "require-from-string@2.0.2": {
+    "license": "MIT",
+    "repository": "floatdrop/require-from-string"
+  },
+  "semver@7.8.5": {
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/npm/node-semver.git"
+    }
+  },
+  "tslib@2.8.1": {
+    "license": "0BSD",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Microsoft/tslib.git"
+    }
+  },
+  "type-fest@2.19.0": {
+    "license": "(MIT OR CC0-1.0)",
+    "repository": "sindresorhus/type-fest"
+  },
+  "undici@6.29.0": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/nodejs/undici.git"
+    }
+  },
+  "@number-flow/react@0.6.2": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/barvian/number-flow",
+      "directory": "src"
+    }
+  },
+  "@radix-ui/number@1.1.3": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/core/number"
+    }
+  },
+  "@radix-ui/primitive@1.1.7": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/core/primitive"
+    }
+  },
+  "@radix-ui/react-collection@1.1.15": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/collection"
+    }
+  },
+  "@radix-ui/react-compose-refs@1.1.5": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/compose-refs"
+    }
+  },
+  "@radix-ui/react-context@1.2.2": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/context"
+    }
+  },
+  "@radix-ui/react-direction@1.1.4": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/direction"
+    }
+  },
+  "@radix-ui/react-primitive@2.1.10": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/primitive"
+    }
+  },
+  "@radix-ui/react-slider@1.4.7": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/slider"
+    }
+  },
+  "@radix-ui/react-slot@1.3.3": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/slot"
+    }
+  },
+  "@radix-ui/react-use-controllable-state@1.2.6": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/use-controllable-state"
+    }
+  },
+  "@radix-ui/react-use-effect-event@0.0.5": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/use-effect-event"
+    }
+  },
+  "@radix-ui/react-use-layout-effect@1.1.4": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/use-layout-effect"
+    }
+  },
+  "@radix-ui/react-use-previous@1.1.4": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/use-previous"
+    }
+  },
+  "@radix-ui/react-use-size@1.1.4": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/radix-ui/primitives.git",
+      "directory": "packages/react/use-size"
+    }
+  },
+  "clsx@2.1.1": {
+    "license": "MIT",
+    "repository": "lukeed/clsx"
+  },
+  "esm-env@1.2.2": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/benmccann/esm-env.git"
+    }
+  },
+  "framer-motion@11.18.2": {
+    "license": "MIT",
+    "repository": "https://github.com/motiondivision/motion/"
+  },
+  "js-tokens@4.0.0": {
+    "license": "MIT",
+    "repository": "lydell/js-tokens"
+  },
+  "loose-envify@1.4.0": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/zertosh/loose-envify.git"
+    }
+  },
+  "lucide-react@0.454.0": {
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lucide-icons/lucide.git",
+      "directory": "packages/lucide-react"
+    }
+  },
+  "motion-dom@11.18.1": {
+    "license": "MIT",
+    "repository": "https://github.com/motiondivision/motion"
+  },
+  "motion-utils@11.18.1": {
+    "license": "MIT",
+    "repository": "https://github.com/motiondivision/motion"
+  },
+  "number-flow@0.6.2": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/barvian/number-flow",
+      "directory": "src"
+    }
+  },
+  "react@18.3.1": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/react.git",
+      "directory": "packages/react"
+    }
+  },
+  "react-dom@18.3.1": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/react.git",
+      "directory": "packages/react-dom"
+    }
+  },
+  "scheduler@0.23.2": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/react.git",
+      "directory": "packages/scheduler"
+    }
+  },
+  "use-sync-external-store@1.6.0": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/react.git",
+      "directory": "packages/use-sync-external-store"
+    }
+  },
+  "zustand@4.5.7": {
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pmndrs/zustand.git"
+    }
+  }
+}

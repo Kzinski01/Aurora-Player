@@ -1,0 +1,17 @@
+title = "Aurora: verificação de segredos"
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Dependências, artefatos gerados e configurações locais"
+paths = [
+  '''(^|/)node_modules/''',
+  '''(^|/)dist/''',
+  '''(^|/)release/''',
+  '''(^|/)output/''',
+  '''(^|/)resources/bin/''',
+  '''(^|/)\.git/''',
+  '''(^|/)\.claude/''',
+  '''(^|/)\.playwright-cli/''',
+]
