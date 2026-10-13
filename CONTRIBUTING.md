@@ -38,8 +38,9 @@ npm --prefix src/renderer audit
 ```
 
 Os testes de interface usam arquivos temporários e mídia gerada pelo FFmpeg.
-Precisam de uma sessão de desktop Windows. O teste de playlist com rede real
-é opcional e está descrito no README.
+Precisam de uma sessão de desktop Windows. O teste opcional
+`node tests/integration/live-playlist.cjs` baixa dez vídeos públicos do
+Internet Archive, verifica os arquivos e remove os dados temporários.
 
 Mantenha os sete dicionários de idioma com as mesmas chaves. Preserve as
 variáveis como `{{count}}` e escreva mensagens que ajudem a pessoa a agir.
