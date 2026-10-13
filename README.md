@@ -13,7 +13,7 @@ Baixe o instalador `.exe` em [Releases](https://github.com/Kzinski01/Aurora-Play
 Cada release inclui `SHA256SUMS.txt` para conferir o arquivo baixado:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 '.\Aurora Downloader Setup 0.10.1.exe'
+Get-FileHash -Algorithm SHA256 '.\Aurora.Downloader.Setup.0.10.1.exe'
 ```
 
 O instalador atual é para Windows x64 e inclui yt-dlp, FFmpeg e FFprobe.
